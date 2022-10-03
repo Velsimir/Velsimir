@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Telegram-blue" alt="Telegram Badge"/>
     <a href="https://www.linkedin.com/in/ivan-koniashov-894b29200/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      <a href="https://vk.com/konyashovpsycho"/>
+      <a href="https://vk.com/konyashovpsycho" />
   <img src="https://img.shields.io/badge/VK-blue" alt="VK Badge"/>
         <img src="https://komarev.com/ghpvc/?username=Velsimir&color=blueviolet" alt=""/>
 </div>
