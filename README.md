@@ -30,7 +30,7 @@ I am a Junior Unity Developer.
 
 - :zap: In my free time (25 hours a week) I'm improving my hard skills
     
-- :memo: Here you can check my solutions study tasks - https://gist.github.com/Velsimir
+- :memo: Here you can check my solutions study tasks
 
 - :wrench: Tools what i`m use <img alt="Unity" src="https://img.shields.io/badge/-Unity-100B09?style=flat-square&logo=unity&logoColor=white" /> <img alt="C Sharp" src="https://img.shields.io/badge/-C%23-9F76D7?style=flat-square&logo=csharp&logoColor=white" />
 
