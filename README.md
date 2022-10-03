@@ -28,12 +28,11 @@ I am a Junior Unity Developer.
 
 - :telescope: At the moment I work as a project coordinator in a recruitment company, where i`m upgrade my soft skills
 
-- :zap: In my free time (25 hours a week) I'm improving my hard skills (results you can check in repositories)
+- :zap: In my free time (25 hours a week) I'm improving my hard skills
 
-- :wrench: Tools what i`m use <img alt="Unity" src="https://img.shields.io/badge/-Unity-100B09?style=flat-square&logo=unity&logoColor=white" /> 
-<img alt="C Sharp" src="https://img.shields.io/badge/-C%23-9F76D7?style=flat-square&logo=csharp&logoColor=white" />
+- :wrench: Tools what i`m use <img alt="Unity" src="https://img.shields.io/badge/-Unity-100B09?style=flat-square&logo=unity&logoColor=white" /> <img alt="C Sharp" src="https://img.shields.io/badge/-C%23-9F76D7?style=flat-square&logo=csharp&logoColor=white" />
 
-- :memo:  you can check my solutions study tasks 
+- :memo: [Here](https://gist.github.com/Velsimir) you can check my solutions study tasks 
 
 - :seedling: Open to communication. Have a nice day! :) 
 
@@ -41,5 +40,3 @@ I am a Junior Unity Developer.
 <img src="https://github-readme-stats.vercel.app/api?username=Velsimir&count_private=true&show_icons=true" align="left" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velsimir&hide=hlsl,shaderlab" />
-
-
