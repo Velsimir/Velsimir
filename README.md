@@ -32,7 +32,7 @@ I am a Junior Unity Developer.
 
 - :wrench: Tools what i`m use <img alt="Unity" src="https://img.shields.io/badge/-Unity-100B09?style=flat-square&logo=unity&logoColor=white" /> <img alt="C Sharp" src="https://img.shields.io/badge/-C%23-9F76D7?style=flat-square&logo=csharp&logoColor=white" />
 
-- :memo: Here you can check my solutions study tasks <https://gist.github.com/Velsimir>
+- :memo: Here you can check my solutions study tasks [a link](https://gist.github.com/Velsimir)
 
 - :seedling: Open to communication. Have a nice day! :) 
 
