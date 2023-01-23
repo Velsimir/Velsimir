@@ -25,8 +25,6 @@
 ---
 ### :man_technologist: About Me :
 I am a Junior Unity Developer. 
-    
-- :memo: [Here](http://gist.github.com/Velsimir) you can check my solutions study task
 
 - :telescope: At the moment I work as a project coordinator in a recruitment company, where i`m upgrade my soft skills
 
