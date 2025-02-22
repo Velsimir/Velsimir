@@ -26,9 +26,7 @@
 ### :man_technologist: About Me :
 I am a Junior Unity Developer. 
 
-- :telescope: At the moment I work as a project coordinator in a recruitment company, where i`m upgrade my soft skills
-
-- :zap: In my free time 25 hours a week I'm improving my hard skills
+- :telescope: Working hard on retraining from a recruiter to a Unity developer.
 
 - :wrench: Tools what i`m use <img alt="Unity" src="https://img.shields.io/badge/-Unity-100B09?style=flat-square&logo=unity&logoColor=white" /> <img alt="C Sharp" src="https://img.shields.io/badge/-C%23-9F76D7?style=flat-square&logo=csharp&logoColor=white" />
 
