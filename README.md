@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" width="280"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:533483&height=160&section=header&text=Ivan%20Koniashov&fontSize=40&fontColor=ffffff&desc=Unity%20Developer%20%7C%20gameplay,%20meta,%20WebGL&descSize=16&descAlignY=68" alt=""/>
+</p>
 
 <div id="badges" align="center">
   <a href="https://t.me/KoniashovIvan"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -8,16 +8,6 @@
   <a href="https://vk.com/konyashovpsycho"><img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white" alt="VK"/></a>
   <img src="https://komarev.com/ghpvc/?username=Velsimir&color=blueviolet" alt=""/>
 </div>
-
-<h1 align="center">
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<p align="center">
-  <b>Unity Developer</b> — mobile, web and PC games<br>
-  Gameplay mechanics · meta systems and monetisation · WebGL ports · build optimisation
-</p>
 
 ---
 
@@ -56,18 +46,16 @@ not ship.
 
 ### Stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,git,github,blender,figma,vscode,visualstudio&theme=dark" alt="Unity, C#, .NET, Git, GitHub, Blender, Figma, VS Code, Visual Studio"/>
+</p>
+
 **Engine:** Unity 6 / 2022 LTS, URP, Addressables, Input System, Cinemachine, Editor scripting<br>
 **Architecture:** SOLID, Zenject (Extenject), ECS (LeoECS Lite), MVP/MVVM, state machines, object pooling<br>
 **Reactive & async:** R3, UniRx, UniTask, MessagePipe, DOTween<br>
 **Platforms:** Android, WebGL (Poki, Yandex Games), Unity Playworks<br>
 **Monetisation:** Unity IAP, LevelPlay, Google Mobile Ads, Unity Localization
 
-- :seedling: Open to communication. Have a nice day! :)
-
 ---
 
-## Coding Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=Velsimir&count_private=true&show_icons=true" align="left" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velsimir&hide=hlsl,shaderlab" />
+- :seedling: Open to communication. Have a nice day! :)
